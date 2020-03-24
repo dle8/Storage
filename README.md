@@ -1,6 +1,7 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- https://kubernetes.io/
 - https://en.wikipedia.org/wiki/Time_series_database - [time series database with multiple backend](https://github.com/xephonhq/xephon-k)
 - https://github.com/dyweb/papers-notebook
 - https://github.com/sjtug/sharing
