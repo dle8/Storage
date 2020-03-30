@@ -1,6 +1,7 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- https://github.com/vasanthk/web-security-basics
 - https://github.com/GIFEE/GIFEE
 - https://github.com/at15
 - https://kubernetes.io/
