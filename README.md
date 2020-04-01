@@ -1,6 +1,8 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+- https://medium.com/free-code-camp/distributed-systems-when-you-should-build-them-and-how-to-scale-a-step-by-step-guide-37e76a177218
 - https://github.com/vasanthk/how-web-works
 - https://github.com/vasanthk/web-security-basics
 - https://github.com/GIFEE/GIFEE
