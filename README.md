@@ -1,6 +1,9 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- GFS: https://pdos.csail.mit.edu/6.824/papers/gfs-faq.txt
+- ZooKeeper: https://pdos.csail.mit.edu/6.824/papers/zookeeper-faq.txt
+- Raft2: https://pdos.csail.mit.edu/6.824/papers/raft2-faq.txt
 - http://www.aosabook.org/en/distsys.html
 - https://pdos.csail.mit.edu/archive/6.824-2013/notes/l15.txt
 - https://engineering.videoblocks.com/web-architecture-101-a3224e126947
