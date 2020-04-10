@@ -1,6 +1,7 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- https://pdos.csail.mit.edu/archive/6.824-2013/notes/l15.txt
 - https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 - https://medium.com/free-code-camp/distributed-systems-when-you-should-build-them-and-how-to-scale-a-step-by-step-guide-37e76a177218
 - https://github.com/vasanthk/how-web-works
