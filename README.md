@@ -1,6 +1,7 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- http://pages.cs.wisc.edu/~remzi/Classes/537/Fall2008/Notes
 - GFS: https://pdos.csail.mit.edu/6.824/papers/gfs-faq.txt
 - ZooKeeper: https://pdos.csail.mit.edu/6.824/papers/zookeeper-faq.txt
 - Raft2: https://pdos.csail.mit.edu/6.824/papers/raft2-faq.txt
