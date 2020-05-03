@@ -1,6 +1,7 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- https://www.mathblog.dk/project-euler-101-optimum-polynomial-function/
 - http://pages.cs.wisc.edu/~remzi/Classes/537/Fall2008/Notes
 - GFS: https://pdos.csail.mit.edu/6.824/papers/gfs-faq.txt
 - ZooKeeper: https://pdos.csail.mit.edu/6.824/papers/zookeeper-faq.txt
