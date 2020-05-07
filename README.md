@@ -1,6 +1,8 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- http://www.polepos.org/
+- http://polepos.sourceforge.net/results/PolePositionClientServer.pdf
 - https://www.mathblog.dk/project-euler-101-optimum-polynomial-function/
 - http://pages.cs.wisc.edu/~remzi/Classes/537/Fall2008/Notes
 - GFS: https://pdos.csail.mit.edu/6.824/papers/gfs-faq.txt
