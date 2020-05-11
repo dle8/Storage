@@ -1,6 +1,7 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- https://topdev.vn/blog/thuat-toan-xep-hang-bai-viet-dang-hot-thinh-hanh-nhu-reddit-va-hacker-news-hoat-dong-the-nao/?fbclid=IwAR1XUgdrOT2XObO29Y0YT2qggBtDwd002y8X2OgRvrQffNLxFdJV5iH_Ih4
 - http://www.polepos.org/
 - http://polepos.sourceforge.net/results/PolePositionClientServer.pdf
 - https://www.mathblog.dk/project-euler-101-optimum-polynomial-function/
