@@ -1,6 +1,8 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- https://developers.google.com/protocol-buffers/docs/overview
+- https://www.youtube.com/watch?v=1MPWPq2N768&pbjreload=10
 - https://www.vmware.com/topics/glossary/content/virtual-networking
 - https://topdev.vn/blog/thuat-toan-xep-hang-bai-viet-dang-hot-thinh-hanh-nhu-reddit-va-hacker-news-hoat-dong-the-nao/?fbclid=IwAR1XUgdrOT2XObO29Y0YT2qggBtDwd002y8X2OgRvrQffNLxFdJV5iH_Ih4
 - http://www.polepos.org/
