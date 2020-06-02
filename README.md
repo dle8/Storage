@@ -1,6 +1,7 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- https://candor.co/guides/salary-negotiation/
 - http://brooker.co.za/blog/2020/05/25/reading.html
 - https://thenewstack.io/author/janakiram/page/1
 - https://thenewstack.io/grpc-lean-mean-communication-protocol-microservices/
