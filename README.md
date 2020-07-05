@@ -1,6 +1,8 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- https://www.codeguru.com/cpp/article.php/c18503/C-Programming-Stack-Allocators-for-STL-Containers.htm
+- https://rextester.com/EBQQD83947
 - https://candor.co/guides/salary-negotiation/
 - http://brooker.co.za/blog/2020/05/25/reading.html
 - https://thenewstack.io/author/janakiram/page/1
