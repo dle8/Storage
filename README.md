@@ -1,6 +1,7 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- https://coffeebeforearch.github.io/2020/04/30/avoiding-branches.html
 - https://www.codeguru.com/cpp/article.php/c18503/C-Programming-Stack-Allocators-for-STL-Containers.htm
 - https://rextester.com/EBQQD83947
 - https://candor.co/guides/salary-negotiation/
