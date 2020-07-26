@@ -1,6 +1,7 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
 - https://developer.nvidia.com/blog/using-cuda-warp-level-primitives/
 - https://deeplearning.mit.edu/
 - https://coffeebeforearch.github.io/2019/12/28/false-sharing-tutorial.html
