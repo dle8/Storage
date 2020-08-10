@@ -13,6 +13,11 @@ Repository of knowledge &amp; sharing.
 
 - CUDA:
   - https://developer.nvidia.com/blog/using-cuda-warp-level-primitives/
+  
+ - C++:
+  - https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-/Stephan-T-Lavavej-Core-C-1-of-n
+  - https://techyaks.com/c++-all-views.html
+  - https://www.youtube.com/playlist?list=PL71i3l7c3rWxybBeajUMtyTiEVo8VCJoe
 
 - Parallel systems:
   - https://coffeebeforearch.github.io/2019/12/28/false-sharing-tutorial.html
