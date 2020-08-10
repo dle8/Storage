@@ -2,7 +2,7 @@
 Repository of knowledge &amp; sharing.
 
 - Machine learning:
-  -https://brilliant.org/wiki/backpropagation/#:~:text=Backpropagation%2C%20short%20for%20%22backward%20propagation,to%20the%20neural%20network's%20weights.
+  - https://brilliant.org/wiki/backpropagation/#:~:text=Backpropagation%2C%20short%20for%20%22backward%20propagation,to%20the%20neural%20network's%20weights.
   - https://cs231n.github.io/
   - Loss functions: https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#:~:text=Cross%2Dentropy%20loss%2C%20or%20log,diverges%20from%20the%20actual%20label.
   - https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
