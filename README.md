@@ -20,6 +20,7 @@ Repository of knowledge &amp; sharing.
    - https://www.youtube.com/playlist?list=PL71i3l7c3rWxybBeajUMtyTiEVo8VCJoe
    - [Functors](https://www.geeksforgeeks.org/functors-in-cpp/)
    - https://people.cs.clemson.edu/~dhouse/courses/405/papers/optimize.pdf
+   - https://www.tantalon.com/pete.htm
 
 - Parallel systems:
   - https://coffeebeforearch.github.io/2019/12/28/false-sharing-tutorial.html
