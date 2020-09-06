@@ -76,3 +76,8 @@ Repository of knowledge &amp; sharing.
 
 - Two-complement:
   - https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html
+  
+- Kubernetes:
+  - https://kubernetesbyexample.com/
+  - https://jsdw.me/posts/kubernetes/
+  - https://www.mirantis.com/blog/multi-container-pods-and-container-communication-in-kubernetes/
