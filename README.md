@@ -81,3 +81,10 @@ Repository of knowledge &amp; sharing.
   - https://kubernetesbyexample.com/
   - https://jsdw.me/posts/kubernetes/
   - https://www.mirantis.com/blog/multi-container-pods-and-container-communication-in-kubernetes/
+  - Communication:
+    - https://kubernetes.io/docs/tasks/access-application-cluster/communicate-containers-same-pod-shared-volume/
+    - https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
+    - https://kubernetes.io/docs/concepts/cluster-administration/networking/
+    - https://kubernetes.io/docs/tasks/access-application-cluster/connecting-frontend-backend/
+    - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
+    
