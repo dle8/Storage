@@ -1,6 +1,18 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+- Data Infrastructure:
+  - https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c
+  - https://netflixtechblog.com/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977
+  - https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825
+  - https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032
+  - https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929
+  - https://blog.gojekengineering.com/loki-chaos-engineering-tool-for-data-infrastructure-at-gojek-a8fdee936f17
+  - https://blog.gojekengineering.com/asgard-a-study-to-envision-data-infrastructure-automation-at-go-jek-35dd6da2c72f
+  - https://towardsdatascience.com/a-quantitative-trading-market-data-infrastructure-4ca7578e0291
+  - https://www.sciencedirect.com/book/9780128093931/big-data-analytics-for-sensor-network-collected-intelligence
+    - https://www.sciencedirect.com/science/article/pii/B9780128093931000027
+
 - Machine learning:
   - https://brilliant.org/wiki/backpropagation/#:~:text=Backpropagation%2C%20short%20for%20%22backward%20propagation,to%20the%20neural%20network's%20weights.
   - https://cs231n.github.io/
