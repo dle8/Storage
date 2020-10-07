@@ -14,6 +14,7 @@ Repository of knowledge &amp; sharing.
     - https://www.sciencedirect.com/science/article/pii/B9780128093931000027
   - Presto:
     - https://www.oreilly.com/library/view/presto-the-definitive/9781492044260/ch04.html
+    - https://www.starburstdata.com/wp-content/uploads/2020/08/Presto-Training-Understanding-and-Tuning-Presto-Query-Processing.pdf
   - Spark:
     - https://www.youtube.com/watch?v=7ooZ4S7Ay6Y
 
