@@ -24,6 +24,7 @@ Repository of knowledge &amp; sharing.
   - Loss functions: https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#:~:text=Cross%2Dentropy%20loss%2C%20or%20log,diverges%20from%20the%20actual%20label.
   - https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
   - https://deeplearning.mit.edu/
+  - https://dl.acm.org/doi/pdf/10.1145/3394486.3403333?casa_token=nogaTwZJmdgAAAAA:ZfkcUKQfrcmGLqoStZl50rbPtnv0LNHgip2fj_XZzM-1mR03PaQdq3AdAf0S3c_HyeBQtMuQ09Q4_Q
 
 - Compiler:
   - http://www.aosabook.org/en/llvm.html?fbclid=IwAR2Jre_83aE7UH5UiK_7hTdssLen0p81cVUruImafIwvn6QvctlQrWffaE8
