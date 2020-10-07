@@ -12,6 +12,10 @@ Repository of knowledge &amp; sharing.
   - https://towardsdatascience.com/a-quantitative-trading-market-data-infrastructure-4ca7578e0291
   - https://www.sciencedirect.com/book/9780128093931/big-data-analytics-for-sensor-network-collected-intelligence
     - https://www.sciencedirect.com/science/article/pii/B9780128093931000027
+  - Presto:
+    - https://www.oreilly.com/library/view/presto-the-definitive/9781492044260/ch04.html
+  - Spark:
+    - https://www.youtube.com/watch?v=7ooZ4S7Ay6Y
 
 - Machine learning:
   - https://brilliant.org/wiki/backpropagation/#:~:text=Backpropagation%2C%20short%20for%20%22backward%20propagation,to%20the%20neural%20network's%20weights.
