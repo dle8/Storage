@@ -105,4 +105,6 @@ Repository of knowledge &amp; sharing.
     - https://kubernetes.io/docs/concepts/cluster-administration/networking/
     - https://kubernetes.io/docs/tasks/access-application-cluster/connecting-frontend-backend/
     - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
+- C++:
+  - https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
     
