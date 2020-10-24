@@ -91,6 +91,7 @@ Repository of knowledge &amp; sharing.
 - Competitve Programming:
   - https://en.wikipedia.org/wiki/List_of_NP-complete_problems
   - https://codeforces.com/blog/entry/57282
+  - https://codeforces.com/blog/ekzhang
 
 - Two-complement:
   - https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html
