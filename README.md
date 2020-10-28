@@ -1,6 +1,7 @@
 # Storage
 Repository of knowledge &amp; sharing.
 
+1. Technical skills
 - Data Infrastructure:
   - https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c
   - https://netflixtechblog.com/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977
@@ -109,3 +110,19 @@ Repository of knowledge &amp; sharing.
 - C++:
   - https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
     
+2. Soft skills
+- Emotion control, self-control:
+    - Bond is adept at psychological warfare. He has superb emotional control and is capable of remaining calm in the most difficult situations, including interrogations and hostage situations.
+- Conversational:
+    - englishclub.com/speaking/guide.php
+    - In order to have good but deep conversation, you need to have a lot of life experiences and knowledge:
+        - Bartender
+        - Cooking
+        - Gambler and Card Player
+        - Finance + investment knowledge
+        - Sport rules
+        - Customer services
+- Physical fitness:
+    - Swimming
+    - Martial art
+
