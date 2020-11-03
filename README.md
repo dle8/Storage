@@ -109,6 +109,8 @@ Repository of knowledge &amp; sharing.
     - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
 - C++:
   - https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+- Python:
+  - https://realpython.com/python-data-structures/
     
 2. Soft skills
 - Emotion control, self-control:
