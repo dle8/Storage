@@ -111,6 +111,11 @@ Repository of knowledge &amp; sharing.
   - https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 - Python:
   - https://realpython.com/python-data-structures/
+- Scala:
+  - pass by name: https://stackoverflow.com/questions/9508051/function-parameter-types-and
+  - mutiple parameter list: https://docs.scala-lang.org/tour/multiple-parameter-lists.html
+  - https://stackoverflow.com/questions/6951895/what-does-and-mean-in-scala
+  - https://stackoverflow.com/questions/40094780/enforcing-non-emptyness-of-scala-varargs-at-compile-time
     
 2. Soft skills
 - Emotion control, self-control:
