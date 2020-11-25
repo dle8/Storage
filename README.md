@@ -18,6 +18,9 @@ Repository of knowledge &amp; sharing.
     - https://www.starburstdata.com/wp-content/uploads/2020/08/Presto-Training-Understanding-and-Tuning-Presto-Query-Processing.pdf
   - Spark:
     - https://www.youtube.com/watch?v=7ooZ4S7Ay6Y
+  - Big data projects:
+    - https://www.dezyre.com/projects/big-data-projects
+    - https://www.baeldung.com/kafka-spark-data-pipeline
 
 - Machine learning:
   - https://brilliant.org/wiki/backpropagation/#:~:text=Backpropagation%2C%20short%20for%20%22backward%20propagation,to%20the%20neural%20network's%20weights.
