@@ -141,6 +141,8 @@ Repository of knowledge &amp; sharing.
    - http://blog.insideinvestmentbanking.com/investment-banking-lingo-terms-definitions/
    - https://targetjobs.co.uk/career-sectors/investment-banking-and-investment/418376-a-graduate-glossary-of-investment-terminology
  - Private equity:
-  - https://www.investopedia.com/articles/financial-careers/09/private-equity.asp
- - https://www.americanbanker.com/glossary/a.html
+   - https://www.investopedia.com/articles/financial-careers/09/private-equity.asp
+   - https://www.americanbanker.com/glossary/a.html
+ - Taxes:
+   - https://taxfoundation.org/the-three-basic-tax-types/
 
