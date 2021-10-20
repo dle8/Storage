@@ -2,6 +2,11 @@
 Repository of knowledge &amp; sharing.
 
 1. Technical skills
+
+- Microservices:
+  - https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/
+  - https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/ 
+
 - Data Infrastructure:
   - https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c
   - https://netflixtechblog.com/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977
