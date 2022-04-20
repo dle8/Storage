@@ -151,3 +151,8 @@ Repository of knowledge &amp; sharing.
  - Taxes:
    - https://taxfoundation.org/the-three-basic-tax-types/
 
+4. VC
+- https://www.itdf.ir/wp-content/uploads/2019/07/Venture-deals.pdf
+
+5. Startup
+- https://www.embroker.com/blog/best-startup-books/
