@@ -153,6 +153,7 @@ Repository of knowledge &amp; sharing.
 
 4. VC
 - https://www.itdf.ir/wp-content/uploads/2019/07/Venture-deals.pdf
+- https://twitter.com/andrewchen/following
 
 5. Startup
 - https://www.embroker.com/blog/best-startup-books/
